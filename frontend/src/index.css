@@ -1,0 +1,195 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Inter:wght@400;500;600;700&display=swap');
+
+:root {
+  /* Soothing Sea-Blue & Lavender Clean Palette */
+  --bg-app: #f4f7fb;
+  --bg-card: #ffffff;
+  --bg-subtle: #f8fafc;
+  --bg-highlight: #eef5fc;
+  --bg-lavender: #f3f4fd;
+  
+  --border-card: #e2e8f0;
+  --border-focus: #38bdf8;
+  --border-subtle: #edf2f7;
+
+  /* High contrast, elder-friendly readable typography */
+  --text-title: #0f172a;
+  --text-body: #334155;
+  --text-muted: #64748b;
+  --text-caption: #94a3b8;
+
+  /* Calming, non-neon accent colors */
+  --sea-blue: #0284c7;
+  --sea-blue-light: #e0f2fe;
+  --sea-blue-dark: #0369a1;
+
+  --lavender: #6366f1;
+  --lavender-light: #e0e7ff;
+  --lavender-dark: #4338ca;
+
+  --soothing-green: #059669;
+  --soothing-green-light: #ecfdf5;
+  --soothing-amber: #d97706;
+  --soothing-amber-light: #fef3c7;
+  --soothing-rose: #e11d48;
+  --soothing-rose-light: #ffe4e6;
+
+  --font-family: 'Plus Jakarta Sans', 'Inter', system-ui, -apple-system, sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+
+  --shadow-sm: 0 1px 3px rgba(15, 23, 42, 0.04);
+  --shadow-card: 0 4px 16px -2px rgba(15, 23, 42, 0.05), 0 2px 6px -1px rgba(15, 23, 42, 0.03);
+  --shadow-hover: 0 10px 25px -4px rgba(15, 23, 42, 0.08), 0 4px 10px -2px rgba(15, 23, 42, 0.04);
+  --shadow-popover: 0 20px 40px -6px rgba(15, 23, 42, 0.16);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--bg-app);
+  color: var(--text-body);
+  font-family: var(--font-family);
+  font-size: 16px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  min-height: 100vh;
+}
+
+header, .app-header-bar {
+  background: #ffffff !important;
+  background-color: #ffffff !important;
+  color: #0f172a !important;
+  border-bottom: 2px solid #e2e8f0 !important;
+}
+
+/* Elegant card design */
+.app-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-card);
+  border-radius: 18px;
+  padding: 1.5rem;
+  box-shadow: var(--shadow-card);
+  transition: all 0.2s ease-in-out;
+}
+
+.app-card:hover {
+  box-shadow: var(--shadow-hover);
+}
+
+/* Tactile, accessible buttons */
+button {
+  font-family: var(--font-family);
+  cursor: pointer;
+  border-radius: 12px;
+  font-weight: 600;
+  transition: all 0.18s ease;
+}
+
+button:active {
+  transform: translateY(1px);
+}
+
+/* Senior-friendly Badges */
+.status-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 5px 12px;
+  border-radius: 9999px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+.pill-green {
+  background: var(--soothing-green-light);
+  color: var(--soothing-green);
+  border: 1px solid #a7f3d0;
+}
+
+.pill-amber {
+  background: var(--soothing-amber-light);
+  color: var(--soothing-amber);
+  border: 1px solid #fde68a;
+}
+
+.pill-rose {
+  background: var(--soothing-rose-light);
+  color: var(--soothing-rose);
+  border: 1px solid #fecdd3;
+}
+
+.pill-blue {
+  background: var(--sea-blue-light);
+  color: var(--sea-blue-dark);
+  border: 1px solid #bae6fd;
+}
+
+.pill-lavender {
+  background: var(--lavender-light);
+  color: var(--lavender-dark);
+  border: 1px solid #c7d2fe;
+}
+
+/* Range input styling for easy manipulation */
+input[type=range] {
+  -webkit-appearance: none;
+  height: 8px;
+  border-radius: 5px;
+  background: #e2e8f0;
+  outline: none;
+}
+
+input[type=range]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background: var(--sea-blue);
+  cursor: pointer;
+  box-shadow: 0 2px 6px rgba(2, 132, 199, 0.4);
+  transition: transform 0.1s ease;
+}
+
+input[type=range]::-webkit-slider-thumb:hover {
+  transform: scale(1.15);
+}
+
+/* Tour Popover Spotlight overlay */
+.tour-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(15, 23, 42, 0.45);
+  backdrop-filter: blur(4px);
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justifyContent: center;
+  animation: fadeIn 0.25s ease-out;
+}
+
+.tour-card {
+  background: #ffffff;
+  border-radius: 20px;
+  padding: 1.75rem 2rem;
+  max-width: 540px;
+  width: 90%;
+  box-shadow: var(--shadow-popover);
+  border: 1px solid #e0e7ff;
+  position: relative;
+  animation: slideUp 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(16px); }
+  to { opacity: 1; transform: translateY(0); }
+}
