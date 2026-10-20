@@ -1,0 +1,36 @@
+seed: 42
+data:
+  raw_dir: data/raw/cgmacros
+  processed_dir: data/processed
+  synthetic_dir: data/synthetic
+models_dir: models
+reports_dir: reports
+grid_minutes: 5
+glucose_source: dexcom          # libre only for sensitivity check
+warmup_hours: 48
+lookback_minutes: 120
+horizons_minutes: [30, 60, 120]
+primary_horizon_minutes: 120
+excursion:
+  threshold_mgdl: 180          # set by M0 rule: 180 -> 160 -> 140 (scripts/audit.py writes it)
+  candidate_thresholds: [180, 160, 140]
+  min_consecutive_samples: 3
+  episode_gap_minutes: 60
+  rule_min_participants: 15
+  rule_min_episodes: 5
+  rule_min_positive_fraction: 0.02
+eligibility:
+  min_valid_fraction_lookback: 0.80
+  min_valid_fraction_horizon: 0.80
+cv:
+  n_splits: 5
+  seeds: [42, 43, 44]
+  calibration_participant_fraction: 0.20
+  bootstrap_resamples: 1000
+  ablation_bootstrap_resamples: 200
+alerts:
+  consecutive_points: 2
+  cooldown_minutes: 60
+  budget_per_patient_day: 2
+  report_budgets: [1, 2, 4]
+monotone_features: [glucose_now, last_meal_carbs, carbs_last_4h]

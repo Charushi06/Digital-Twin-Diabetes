@@ -1,0 +1,68 @@
+# Indian meal presets for what-if sensitivity analysis (PRD section 10.3)
+# Sourced from Indian Food Composition Tables (NIN-ICMR, IFCT 2017)
+# UI must display: "Model trained on US meals. Indian meal presets are an extrapolation and illustrative only."
+
+presets:
+  - name: "Idli with Sambar (2 idlis + 1 cup sambar)"
+    carbs_g: 48.0
+    protein_g: 9.5
+    fat_g: 3.2
+    fiber_g: 6.4
+    kcal: 258.0
+    source: "IFCT 2017, Table 2 (Cereals) & Table 4 (Pulses), standard cooked portions"
+
+  - name: "Masala Dosa with Chutney (1 medium)"
+    carbs_g: 54.0
+    protein_g: 7.8
+    fat_g: 14.5
+    fiber_g: 4.2
+    kcal: 378.0
+    source: "IFCT 2017, Fermented cereal-pulse preparations & coconut chutney"
+
+  - name: "Roti with Dal & Mixed Sabzi (2 rotis + 1 katori dal + sabzi)"
+    carbs_g: 58.0
+    protein_g: 14.2
+    fat_g: 9.0
+    fiber_g: 9.8
+    kcal: 370.0
+    source: "IFCT 2017, Whole wheat flour (Table 2), Toor dal (Table 4)"
+
+  - name: "Steamed White Rice with Toor Dal (1 cup rice + 1 cup dal)"
+    carbs_g: 68.0
+    protein_g: 12.0
+    fat_g: 4.5
+    fiber_g: 5.2
+    kcal: 360.0
+    source: "IFCT 2017, Polished raw rice & Pigeon pea dal"
+
+  - name: "Vegetable Poha (1 medium plate)"
+    carbs_g: 46.0
+    protein_g: 6.2
+    fat_g: 8.5
+    fiber_g: 3.8
+    kcal: 285.0
+    source: "IFCT 2017, Flaked rice with peanut & potato garnish"
+
+  - name: "Aloo Paratha with Curd (1 medium + 100g curd)"
+    carbs_g: 52.0
+    protein_g: 10.5
+    fat_g: 16.0
+    fiber_g: 5.5
+    kcal: 394.0
+    source: "IFCT 2017, Whole wheat stuffed paratha and plain whole cow milk curd"
+
+  - name: "Chicken Biryani (1 regular portion / 300g)"
+    carbs_g: 64.0
+    protein_g: 28.0
+    fat_g: 18.0
+    fiber_g: 3.5
+    kcal: 530.0
+    source: "IFCT 2017, Basmati rice preparations with broiler chicken lean meat"
+
+  - name: "Moong Dal Khichdi with Ghee (1 bowl)"
+    carbs_g: 49.0
+    protein_g: 11.8
+    fat_g: 7.5
+    fiber_g: 6.0
+    kcal: 310.0
+    source: "IFCT 2017, Split green gram and raw milled rice cooked with 5g clarified butter"

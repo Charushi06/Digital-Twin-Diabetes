@@ -17,3 +17,8 @@ __pycache__/
 frontend/node_modules/
 frontend/dist/
 frontend/.vite/
+
+# other
+extra/
+requirements.lock
+Diabetes_Digital_Twin_PRD_v3.md
