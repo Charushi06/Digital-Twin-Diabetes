@@ -3,8 +3,12 @@
 from __future__ import annotations
 
 import json
+import sys
 from pathlib import Path
 from typing import Any
+
+# Ensure src/ is on sys.path
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "src"))
 
 import joblib
 import numpy as np
