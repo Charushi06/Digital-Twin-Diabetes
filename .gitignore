@@ -1,0 +1,19 @@
+# Data and models (Rule 6: Never commit raw or processed datasets)
+data/raw/
+data/processed/
+models/*.pkl
+models/h30/*.pkl
+models/h60/*.pkl
+models/h120/*.pkl
+
+# Python artifacts
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Node / Frontend artifacts
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
