@@ -11,14 +11,14 @@
 
 | Item | Link |
 |---|---|
-| **Project Title** | [Project Title](#-project-title) |
+| **Project Title** | [Project Title](#-Glucose-Twin-:-An-Explainable-Multimodal-Digital-Twin-for-Type-2-Diabetes) |
 | **Team Details** | [Team Details](#-team-details) |
-| **College & Incubator Information** | [College & Incubator Info](#-college--incubator-information) |
+| **College & Incubator Information** | [College & Incubator Info](#-college-/-incubator-information) |
 | **Problem Statement** | [Problem Statement](#-problem-statement) |
 | **Healthcare Use Case** | [Healthcare Use Case](#-healthcare-use-case) |
 | **Technical Stack** | [Technical Stack](#-technical-stack) |
 | **AI/ML Model & Framework Details** | [AI/ML Model & Framework Details](#-aiml-model-and-framework-details) |
-| **15–20 Min Demo Video (Unlisted YouTube)** | [Demo Video Section](#-1520-minute-demo-video) |
+| **Demo Video (Unlisted YouTube)** | [Demo Video Section](#-1520-minute-demo-video) |
 | **Architecture Diagram (PDF / PPT)** | [Architecture Diagram Link](#-architecture-diagram-pdf--ppt) |
 | **Presentation Deck (PDF / PPT)** | [Presentation Deck Link](#-project-presentation-deck-pdf--ppt) |
 | **Open-Source License Details** | [License Details](#-open-source-license-details) |
