@@ -12,11 +12,11 @@
 | Item | Link |
 |---|---|
 | **Team Details** | [Team Details](#-team-details) |
-| **College & Incubator Information** | [College Info](#-college-information) |
+| **College & Incubator Information** | [College Information](#-college-information) |
 | **Problem Statement** | [Problem Statement](#-problem-statement) |
 | **Healthcare Use Case** | [Healthcare Use Case](#-healthcare-use-case) |
 | **Technical Stack** | [Technical Stack](#-technical-stack) |
-| **AI/ML Model & Framework Details** | [AI/ML Model & Framework Details](#-aiml-model-and-framework-details) |
+| **AI/ML Model & Framework Details** | [AIML Model & Framework Details](#-aiml-model-and-framework-details) |
 | **Demo Video (Unlisted YouTube)** | [Demo Video Section](#-1520-minute-demo-video) |
 | **Architecture Diagram (PDF / PPT)** | [Architecture Diagram Link](#-architecture-diagram-pdf--ppt) |
 | **Presentation Deck (PDF / PPT)** | [Presentation Deck Link](#-project-presentation-deck-pdf--ppt) |
@@ -122,7 +122,7 @@ Dietary carbohydrates in India differ significantly in glycemic load and composi
 
 ---
 
-## 🧠 AI/ML Model and Framework Details
+## 🧠 AIML Model and Framework Details
 
 ### 1. Data Fusion Architecture
 The pipeline ingests two asynchronous data channels resampled onto a 5-minute causal grid with zero forward-looking leakage:
@@ -167,7 +167,7 @@ The pipeline ingests two asynchronous data channels resampled onto a 5-minute ca
   👉 **`[CLICK HERE TO WATCH THE DEMO VIDEO ](https://youtu.be/HSTM4g6EAQM)`**  
   
 
-## 📐 Architecture Diagram (PDF / PPT)
+## 📐 Architecture Diagram (PDF)
 
 - **PDF Version:** [`[Download Architecture Diagram (PDF)]`](./docs/architecture_diagram.pdf)
 
@@ -208,7 +208,7 @@ graph TD
 
 ---
 
-## 📊 Project Presentation Deck (PDF / PPT)
+## 📊 Project Presentation Deck (PDF)
 
 - **PDF Version:** [`[Download Presentation Deck (PDF)]`](./docs/project_presentation.pdf) 
 
