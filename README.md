@@ -11,9 +11,8 @@
 
 | Item | Link |
 |---|---|
-| **Project Title** | [Project Title](#-Glucose-Twin-:-An-Explainable-Multimodal-Digital-Twin-for-Type-2-Diabetes) |
 | **Team Details** | [Team Details](#-team-details) |
-| **College & Incubator Information** | [College & Incubator Info](#-college-/-incubator-information) |
+| **College & Incubator Information** | [College Info](#-college-information) |
 | **Problem Statement** | [Problem Statement](#-problem-statement) |
 | **Healthcare Use Case** | [Healthcare Use Case](#-healthcare-use-case) |
 | **Technical Stack** | [Technical Stack](#-technical-stack) |
@@ -36,7 +35,7 @@
  
 ---
 
-## 🏛️ College / Incubator Information
+## 🏛️ College Information
 
 - **Institution / College Name:** `Indira Gandhi Delhi Technical University for Women`
 - **Department:** `Department of Information Technology (No incubator)`
