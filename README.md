@@ -10,7 +10,7 @@
 ## 📋 Quick Links
 
 | Item | Link |
-|---|---|---|
+|---|---|
 | **Project Title** | [Project Title](#-project-title) |
 | **Team Details** | [Team Details](#-team-details) |
 | **College & Incubator Information** | [College & Incubator Info](#-college--incubator-information) |
@@ -32,9 +32,9 @@
 
 - **Team Name:** ``
 - **Team Leader:**
-  - **Full Name:** ``
+  - **Full Name:** `Charushi`
 - **Team Member 2:**
-  - **Full Name:** ``
+  - **Full Name:** `Devanshi Malhotra`
  
 
 ---
@@ -165,11 +165,11 @@ The pipeline ingests two asynchronous data channels resampled onto a 5-minute ca
 
 ---
 
-## 🎥 15–20 Minute Demo Video
+## 🎥 Demo Video
 
-- **Video Link (Unlisted YouTube):**  
+- **Video Link:**  
   👉 **`[CLICK HERE TO WATCH THE DEMO VIDEO (UNLISTED YOUTUBE LINK)](https://youtu.be/PLACEHOLDER_VIDEO_ID)`**  
-  *(Replace `https://youtu.be/PLACEHOLDER_VIDEO_ID` with your actual unlisted YouTube link)*
+  
 
 ### Video Breakdown & Timestamps
 - `00:00 - 02:30` : Introduction, India Healthcare Crisis & Problem Statement
@@ -183,8 +183,7 @@ The pipeline ingests two asynchronous data channels resampled onto a 5-minute ca
 
 ## 📐 Architecture Diagram (PDF / PPT)
 
-- **PDF Version:** [`[Download Architecture Diagram (PDF)]`](./docs/architecture_diagram.pdf) *(Placeholder: Place your PDF file in `docs/architecture_diagram.pdf`)*
-- **PPT / Editable Version:** [`[Download Architecture Diagram (PPTX)]`](./docs/architecture_diagram.pptx) *(Placeholder: Place your PPTX file in `docs/architecture_diagram.pptx`)*
+- **PDF Version:** [`[Download Architecture Diagram (PDF)]`](./docs/architecture_diagram.pdf)
 
 ### High-Level Architecture Flowchart
 
@@ -225,8 +224,7 @@ graph TD
 
 ## 📊 Project Presentation Deck (PDF / PPT)
 
-- **PDF Version:** [`[Download Presentation Deck (PDF)]`](./docs/project_presentation.pdf) *(Placeholder: Place your presentation PDF in `docs/project_presentation.pdf`)*
-- **PPT / Editable Version:** [`[Download Presentation Deck (PPTX)]`](./docs/project_presentation.pptx) *(Placeholder: Place your presentation PPTX in `docs/project_presentation.pptx`)*
+- **PDF Version:** [`[Download Presentation Deck (PDF)]`](./docs/project_presentation.pdf) 
 
 ---
 
