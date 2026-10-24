@@ -28,15 +28,12 @@
 
 ## 👥 Team Details
 
-*Please fill in your team details prior to final submission:*
-
-- **Team Name:** ``
+- **Team Name:** `Cold Coffee (charushi3174)`
 - **Team Leader:**
   - **Full Name:** `Charushi`
 - **Team Member 2:**
   - **Full Name:** `Devanshi Malhotra`
  
-
 ---
 
 ## 🏛️ College / Incubator Information
@@ -168,18 +165,8 @@ The pipeline ingests two asynchronous data channels resampled onto a 5-minute ca
 ## 🎥 Demo Video
 
 - **Video Link:**  
-  👉 **`[CLICK HERE TO WATCH THE DEMO VIDEO (UNLISTED YOUTUBE LINK)](https://youtu.be/PLACEHOLDER_VIDEO_ID)`**  
+  👉 **`[CLICK HERE TO WATCH THE DEMO VIDEO ](https://youtu.be/HSTM4g6EAQM)`**  
   
-
-### Video Breakdown & Timestamps
-- `00:00 - 02:30` : Introduction, India Healthcare Crisis & Problem Statement
-- `02:30 - 05:30` : Multimodal Stream Fusion Architecture (EHR + CGM + Wearable + Meals)
-- `05:30 - 09:30` : Live Clinician Dashboard Demonstration & Digital Twin Virtual Patient
-- `09:30 - 13:00` : Real-Time Excursion Forecasting (30, 60, 120 min) & SHAP Explainability
-- `13:00 - 16:30` : Pre-Meal What-If Sensitivity Simulator with Indian Meal Presets (IFCT 2017)
-- `16:30 - 19:30` : 5-Fold Group CV Methodology, Ablation Study Proof & Regulatory Disclaimers
-
----
 
 ## 📐 Architecture Diagram (PDF / PPT)
 
