@@ -12,14 +12,14 @@
 | Item | Link |
 |---|---|
 | **Team Details** | [Team Details](#-team-details) |
-| **College & Incubator Information** | [College Information](#-college-information) |
+| **College & Incubator Information** | [College Information](#college-information) |
 | **Problem Statement** | [Problem Statement](#-problem-statement) |
 | **Healthcare Use Case** | [Healthcare Use Case](#-healthcare-use-case) |
-| **Technical Stack** | [Technical Stack](#-technical-stack) |
-| **AI/ML Model & Framework Details** | [AIML Model & Framework Details](#-aiml-model-and-framework-details) |
-| **Demo Video (Unlisted YouTube)** | [Demo Video Section](#-1520-minute-demo-video) |
-| **Architecture Diagram (PDF / PPT)** | [Architecture Diagram Link](#-architecture-diagram-pdf--ppt) |
-| **Presentation Deck (PDF / PPT)** | [Presentation Deck Link](#-project-presentation-deck-pdf--ppt) |
+| **Technical Stack** | [Technical Stack](#technical-stack) |
+| **AI/ML Model & Framework Details** | [AIML Model & Framework Details](#aiml-model-and-framework-details) |
+| **Demo Video (Unlisted YouTube)** | [Demo Video Section](#demo-video) |
+| **Architecture Diagram (PDF / PPT)** | [Architecture Diagram Link](#architecture-diagram) |
+| **Presentation Deck (PDF / PPT)** | [Presentation Deck Link](#presentation-deck) |
 | **Open-Source License Details** | [License Details](#-open-source-license-details) |
 | **Public Accessibility Statement** | [Public Accessibility](#-public-accessibility-confirmation) |
 
@@ -164,12 +164,13 @@ The pipeline ingests two asynchronous data channels resampled onto a 5-minute ca
 
 ---
 
+<a id="demo-video"></a>
 ## 🎥 Demo Video
 
 - **Video Link:**  
   👉 **[CLICK HERE TO WATCH THE DEMO VIDEO ](https://youtu.be/HSTM4g6EAQM)**  
   
-
+<a id="architecture-diagram"></a>
 ## 📐 Architecture Diagram (PDF)
 
 - **PDF Version:** [`[Download Architecture Diagram (PDF)]`](./docs/architecture_diagram.pdf)
@@ -211,6 +212,7 @@ graph TD
 
 ---
 
+<a id="presentation-deck"></a>
 ## 📊 Project Presentation Deck (PDF)
 
 - **PDF Version:** [`[Download Presentation Deck (PDF)]`](./docs/project_presentation.pdf) 
