@@ -30,14 +30,15 @@
 - **Team Name:** `Cold Coffee (charushi3174)`
 - **Team Leader:**
   - **Full Name:** `Charushi`
-- **Team Member 2:**
+- **Team Member:**
   - **Full Name:** `Devanshi Malhotra`
  
 ---
 
+<a id="college-information"></a>
 ## 🏛️ College Information
 
-- **Institution / College Name:** `Indira Gandhi Delhi Technical University for Women`
+- **Institution / College Name:** `Indira Gandhi Delhi Technical University for Women (IGDTUW)`
 - **Department:** `Department of Information Technology (No incubator)`
 - **Location:** `Delhi, India`
 
@@ -95,6 +96,7 @@ Dietary carbohydrates in India differ significantly in glycemic load and composi
 
 ---
 
+<a id="technical-stack"></a>
 ## 🛠️ Technical Stack
 
 ```
@@ -122,7 +124,8 @@ Dietary carbohydrates in India differ significantly in glycemic load and composi
 
 ---
 
-## 🧠 AIML Model and Framework Details
+<a id="aiml-model-and-framework-details"></a>
+## 🧠 AI/ML Model and Framework Details
 
 ### 1. Data Fusion Architecture
 The pipeline ingests two asynchronous data channels resampled onto a 5-minute causal grid with zero forward-looking leakage:
@@ -164,7 +167,7 @@ The pipeline ingests two asynchronous data channels resampled onto a 5-minute ca
 ## 🎥 Demo Video
 
 - **Video Link:**  
-  👉 **`[CLICK HERE TO WATCH THE DEMO VIDEO ](https://youtu.be/HSTM4g6EAQM)`**  
+  👉 **[CLICK HERE TO WATCH THE DEMO VIDEO ](https://youtu.be/HSTM4g6EAQM)**  
   
 
 ## 📐 Architecture Diagram (PDF)
