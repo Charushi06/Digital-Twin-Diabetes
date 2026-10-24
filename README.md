@@ -7,22 +7,22 @@
 
 ---
 
-## 📋 Mandatory Submission Checklist & Quick Links
+## 📋 Quick Links
 
-| Item | Status | Location / Link |
+| Item | Link |
 |---|---|---|
-| **Project Title** | ✅ Completed | [Project Title](#-project-title) |
-| **Team Details** | 📝 Fill In | [Team Details](#-team-details) |
-| **College & Incubator Information** | 📝 Fill In | [College & Incubator Info](#-college--incubator-information) |
-| **Problem Statement** | ✅ Completed | [Problem Statement](#-problem-statement) |
-| **Healthcare Use Case** | ✅ Completed | [Healthcare Use Case](#-healthcare-use-case) |
-| **Technical Stack** | ✅ Completed | [Technical Stack](#-technical-stack) |
-| **AI/ML Model & Framework Details** | ✅ Completed | [AI/ML Model & Framework Details](#-aiml-model-and-framework-details) |
-| **15–20 Min Demo Video (Unlisted YouTube)** | 🔗 Placeholder | [Demo Video Section](#-1520-minute-demo-video) |
-| **Architecture Diagram (PDF / PPT)** | 🔗 Placeholder | [Architecture Diagram Link](#-architecture-diagram-pdf--ppt) |
-| **Presentation Deck (PDF / PPT)** | 🔗 Placeholder | [Presentation Deck Link](#-project-presentation-deck-pdf--ppt) |
-| **Open-Source License Details** | ✅ Completed | [License Details](#-open-source-license-details) |
-| **Public Accessibility Statement** | ✅ Verified | [Public Accessibility](#-public-accessibility-confirmation) |
+| **Project Title** | [Project Title](#-project-title) |
+| **Team Details** | [Team Details](#-team-details) |
+| **College & Incubator Information** | [College & Incubator Info](#-college--incubator-information) |
+| **Problem Statement** | [Problem Statement](#-problem-statement) |
+| **Healthcare Use Case** | [Healthcare Use Case](#-healthcare-use-case) |
+| **Technical Stack** | [Technical Stack](#-technical-stack) |
+| **AI/ML Model & Framework Details** | [AI/ML Model & Framework Details](#-aiml-model-and-framework-details) |
+| **15–20 Min Demo Video (Unlisted YouTube)** | [Demo Video Section](#-1520-minute-demo-video) |
+| **Architecture Diagram (PDF / PPT)** | [Architecture Diagram Link](#-architecture-diagram-pdf--ppt) |
+| **Presentation Deck (PDF / PPT)** | [Presentation Deck Link](#-project-presentation-deck-pdf--ppt) |
+| **Open-Source License Details** | [License Details](#-open-source-license-details) |
+| **Public Accessibility Statement** | [Public Accessibility](#-public-accessibility-confirmation) |
 
 ---
 
@@ -30,33 +30,20 @@
 
 *Please fill in your team details prior to final submission:*
 
-- **Team Name:** `[Team Name - e.g., GlucoTwin AI]`
+- **Team Name:** ``
 - **Team Leader:**
-  - **Full Name:** `[Team Leader Name]`
-  - **Email ID:** `[leader-email@domain.edu]`
-  - **Phone Number:** `[+91-XXXXXXXXXX]`
-  - **Role:** `[e.g., ML & Pipeline Lead]`
+  - **Full Name:** ``
 - **Team Member 2:**
-  - **Full Name:** `[Member 2 Name]`
-  - **Email ID:** `[member2-email@domain.edu]`
-  - **Role:** `[e.g., Full-Stack & UI/UX Developer]`
-- **Team Member 3:**
-  - **Full Name:** `[Member 3 Name (Optional)]`
-  - **Email ID:** `[member3-email@domain.edu]`
-  - **Role:** `[e.g., Data Engine & Validation Specialist]`
-- **Team Member 4:**
-  - **Full Name:** `[Member 4 Name (Optional)]`
-  - **Email ID:** `[member4-email@domain.edu]`
-  - **Role:** `[e.g., Clinical Domain & Research Specialist]`
+  - **Full Name:** ``
+ 
 
 ---
 
 ## 🏛️ College / Incubator Information
 
-- **Institution / College Name:** `[e.g., Indian Institute of Technology / BITS Pilani / National Institute of Technology]`
-- **Incubator / Department:** `[e.g., Centre for Healthcare Innovation / Department of Computer Science & Engineering]`
-- **Location:** `[City, State, India]`
-- **Faculty Mentor / Advisor (if applicable):** `[Dr. Advisor Name, Department]`
+- **Institution / College Name:** `Indira Gandhi Delhi Technical University for Women`
+- **Department:** `Department of Information Technology (No incubator)`
+- **Location:** `Delhi, India`
 
 ---
 
