@@ -168,7 +168,8 @@ The pipeline ingests two asynchronous data channels resampled onto a 5-minute ca
 ## 🎥 Demo Video
 
 - **Video Link:**  
-  👉 **[CLICK HERE TO WATCH THE DEMO VIDEO ](https://youtu.be/HSTM4g6EAQM)**  
+  👉 **[CLICK HERE TO WATCH THE DEMO VIDEO ](https://youtu.be/HSTM4g6EAQM)**
+  `https://youtu.be/HSTM4g6EAQM`
   
 <a id="architecture-diagram"></a>
 ## 📐 Architecture Diagram (PDF)
